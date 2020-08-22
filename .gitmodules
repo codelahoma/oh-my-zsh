@@ -1,0 +1,3 @@
+[submodule "plugins/wakatime"]
+	path = plugins/wakatime
+	url = https://github.com/sobolevn/wakatime-zsh-plugin.git
