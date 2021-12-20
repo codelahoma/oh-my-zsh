@@ -1,3 +1,12 @@
 [submodule "plugins/wakatime"]
 	path = plugins/wakatime
 	url = https://github.com/sobolevn/wakatime-zsh-plugin.git
+[submodule "custom/themes/powerlevel10k"]
+	path = custom/themes/powerlevel10k
+	url = https://github.com/romkatv/powerlevel10k.git
+[submodule "custom/plugins/wakatime"]
+	path = custom/plugins/wakatime
+	url = https://github.com/sobolevn/wakatime-zsh-plugin.git
+[submodule "custom/plugins/zsh-256color"]
+	path = custom/plugins/zsh-256color
+	url = https://github.com/chrissicool/zsh-256color.git
